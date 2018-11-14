@@ -6,8 +6,8 @@ try {
 } catch (e) {
   contentfulConfig = {
     production: {
-      spaceId: process.env.SPACE_ID,
-      accessToken: process.env.ACCESS_TOKEN,
+      spaceId: 'frqf44ubbx59',
+      accessToken: 'CFPAT-e4ede905809e711bb9984cb25598c47683d904471c741015430baa237a20c101',
     },
   }
 } finally {
