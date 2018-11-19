@@ -7,7 +7,7 @@ try {
   contentfulConfig = {
     production: {
       spaceId: 'frqf44ubbx59',
-      accessToken: 'CFPAT-e4ede905809e711bb9984cb25598c47683d904471c741015430baa237a20c101',
+      accessToken: 'ea251d70488bfb139c45248ae2958adaeeacb34658306cc8f50e1ae09677a86d',
     },
   }
 } finally {
